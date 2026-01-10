@@ -21,5 +21,8 @@ Order of operations
 > Please Excuse My Dear Aunt Sally
 
 
+Absolute value
+
+> Absolute value is the distance of the number to the origin of the number line
 
 
