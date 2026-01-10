@@ -8,4 +8,18 @@ press shift+tab
 ## Law of exponents(指数运算法则)
 
 
+Order of operations
+
++ Parentheses
++ Exponents
++ Multiplication
++ Divisiion
++ Addition
++ Subtraction
+
+
+> Please Excuse My Dear Aunt Sally
+
+
+
 
