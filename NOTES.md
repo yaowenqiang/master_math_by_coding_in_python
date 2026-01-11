@@ -25,4 +25,5 @@ Absolute value
 
 > Absolute value is the distance of the number to the origin of the number line
 
+symbolic vs numerical analytical variable precision
 
