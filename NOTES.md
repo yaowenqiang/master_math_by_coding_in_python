@@ -27,3 +27,8 @@ Absolute value
 
 symbolic vs numerical analytical variable precision
 
+
+solving for x
+
+> homogeneous
+
