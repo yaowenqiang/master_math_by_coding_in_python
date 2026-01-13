@@ -32,3 +32,4 @@ solving for x
 
 > homogeneous
 
+> expanding terms
