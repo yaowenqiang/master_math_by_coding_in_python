@@ -33,3 +33,5 @@ solving for x
 > homogeneous
 
 > expanding terms
+
+## matrices
