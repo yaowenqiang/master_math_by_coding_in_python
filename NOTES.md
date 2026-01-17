@@ -87,4 +87,6 @@ Breaking down a number into prim multiplicands
 25 = 5 * 5
 48 = 2 * 2 * 2 * 2 * 3
 
+## Adding polynomials(多项式相加)
 
+## factor polynomials
