@@ -90,3 +90,5 @@ Breaking down a number into prim multiplicands
 ## Adding polynomials(多项式相加)
 
 ## factor polynomials
+
+## linear equations in slope-intercept form 
