@@ -92,3 +92,10 @@ Breaking down a number into prim multiplicands
 ## factor polynomials
 
 ## linear equations in slope-intercept form 
+
+## Graphing rational functions(有理函数)
+
+有理函数是指由两个多项式相除构成的函数
+
+## draw patches with polygons
+
