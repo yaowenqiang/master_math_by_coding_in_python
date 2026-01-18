@@ -99,3 +99,29 @@ Breaking down a number into prim multiplicands
 
 ## draw patches with polygons
 
+## Summation and products
+
+cumulative Sum
+
+## discrect difference operator
+
+差分
+
+## roots of polynomials
+
+> 多项式求根
+
+> indeterminate
+
+
+## quadratic equation
+
+二次方程是形如 ax² + bx + c = 0（其中 a ≠ 0）的一元二次方程
+
+### complex numbers
+
+imaginary operator
+
+complex conjugate(复数共轭(gòng è))
+
+
