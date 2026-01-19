@@ -125,3 +125,14 @@ imaginary operator
 complex conjugate(复数共轭(gòng è))
 
 
+complex plane
+
+the magnitude of a complex number
+
+## unit circle
+
+> trigonometry
+
+## nature exponents
+
+
