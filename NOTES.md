@@ -135,4 +135,10 @@ the magnitude of a complex number
 
 ## nature exponents
 
+## logarithm
+
+## Find a specific point on a gaussion
+
+> Full width at half maximum(FWHM)
+
 
