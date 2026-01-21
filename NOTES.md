@@ -141,4 +141,10 @@ the magnitude of a complex number
 
 > Full width at half maximum(FWHM)
 
+## complex roots of unity
+
+单位根是数学中极其重要的概念，指的是方程 zⁿ = 1在复数域中的所有解。这些根在复平面上均匀分布在单位圆上。
+
+
+## log-spaced and linearly spaced numbers
 
