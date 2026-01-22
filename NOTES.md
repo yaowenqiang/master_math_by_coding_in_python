@@ -148,3 +148,9 @@ the magnitude of a complex number
 
 ## log-spaced and linearly spaced numbers
 
+## Logarithm How multiplication and Divisiion are related to addition and subtraction
+
+## Arithemetic and geometric sequences
+
+
+
