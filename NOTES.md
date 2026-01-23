@@ -152,5 +152,11 @@ the magnitude of a complex number
 
 ## Arithemetic and geometric sequences
 
+## scientific notation
+
+## Orders of magnitude(数量级)
+
+## Maxima and minima of a function
+
 
 
