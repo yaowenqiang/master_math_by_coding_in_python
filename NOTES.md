@@ -164,10 +164,16 @@ f(x) is even if f(-x) = f(x)
 f(x) is odd if f(-x) = -f(x)
 
 
-> sigmoid function
+> sigmoid function(s型函数)
 
 ## graphing conic
 
-graphing parabolas
+graphing parabolas(抛物线函数)
+
+## creating contours from meshes in python
+
+## graphing hyperbolas(双曲线)
+
+
 
 
