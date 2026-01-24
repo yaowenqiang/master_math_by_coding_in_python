@@ -174,6 +174,16 @@ graphing parabolas(抛物线函数)
 
 ## graphing hyperbolas(双曲线)
 
+random numbers normal distribution and uniform distribution
+
+
+
+## Trigonometry(三角函数)
+
+## The pythagorean theorem(勾股定理)
+
+> hypotenuse
+
 
 
 
