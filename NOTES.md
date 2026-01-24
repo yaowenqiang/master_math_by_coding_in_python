@@ -164,4 +164,10 @@ f(x) is even if f(-x) = f(x)
 f(x) is odd if f(-x) = -f(x)
 
 
+> sigmoid function
+
+## graphing conic
+
+graphing parabolas
+
 
