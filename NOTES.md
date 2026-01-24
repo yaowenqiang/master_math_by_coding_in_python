@@ -158,5 +158,10 @@ the magnitude of a complex number
 
 ## Maxima and minima of a function
 
+## Even and Odd functions
+
+f(x) is even if f(-x) = f(x)
+f(x) is odd if f(-x) = -f(x)
+
 
 
