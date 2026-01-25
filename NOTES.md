@@ -184,6 +184,22 @@ random numbers normal distribution and uniform distribution
 
 > hypotenuse
 
+## Euler's formula (欧拉公式) (Euler's identity)
 
+## random exploding Euler
+
+## The asteroid radial curve
+
+## rose curves
+## curvy diamonds
+## squircle
+
+> https://mathworld.wolfram.com/
+
+## logarithmic spiral
+
+对数螺线（Logarithmic Spiral），也称为等角螺线（Equiangular Spiral）或生长螺线（Growth Spiral），是一种在自然界和数学中极为重要的曲线。其最显著的特点是曲线上任意点的切线与该点到极点的连线（极径）之间的夹角恒定不变
+
+## logistic map(逻辑斯谛映射)
 
 
