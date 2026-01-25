@@ -202,4 +202,18 @@ random numbers normal distribution and uniform distribution
 
 ## logistic map(逻辑斯谛映射)
 
+## Mathematical proofs vs intuition
+
+Mathematical proofs
+
+> A rigorous demonstration that an hypothesis is true, built on axioms and previously proven claims
+
+intuition with examples in Python
+
+> Build intuition by implementing examples, and trusting that computers implement math accurately
+
+
+## piecewise functions
+
+
 
