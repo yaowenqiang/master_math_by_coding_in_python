@@ -213,7 +213,7 @@ intuition with examples in Python
 > Build intuition by implementing examples, and trusting that computers implement math accurately
 
 
-## piecewise functions
+## piecewise functions(分段函数)
 
 
 
