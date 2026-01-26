@@ -215,5 +215,8 @@ intuition with examples in Python
 
 ## piecewise functions(分段函数)
 
+## Derivatives of polynomials(多项式导数)
+
+
 
 
