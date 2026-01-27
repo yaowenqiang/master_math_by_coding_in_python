@@ -217,6 +217,9 @@ intuition with examples in Python
 
 ## Derivatives of polynomials(多项式导数)
 
+## Derivatives of sine and cosine
+
+
 
 
 
