@@ -221,6 +221,9 @@ intuition with examples in Python
 
 ## tangent line to a function(函数切线)
 
+## Finding critical points of a function(临界点)
+
+> discourteous
 
 
 
