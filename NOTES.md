@@ -225,6 +225,11 @@ intuition with examples in Python
 
 > discourteous
 
+## Partical derivatives(偏导数)
+
+## indefinite and definite integrals(不定积分与写积分)
+
+
 
 
 
