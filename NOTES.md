@@ -232,6 +232,11 @@ intuition with examples in Python
 ## areas between two curves
 
 
+## Adding and scalar(标量)-multiplying vectors
+
+## The dot product(点积)
+
+## Correlation coefficient(相关系数)
 
 
 
