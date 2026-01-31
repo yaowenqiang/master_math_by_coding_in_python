@@ -238,6 +238,11 @@ intuition with examples in Python
 
 ## Correlation coefficient(相关系数)
 
+## outer product(外积)
+
+> matrix commutative
+
+
 
 
 
