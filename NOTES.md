@@ -227,7 +227,10 @@ intuition with examples in Python
 
 ## Partical derivatives(偏导数)
 
-## indefinite and definite integrals(不定积分与写积分)
+## indefinite and definite integrals(不定积分与定积分)
+
+## areas between two curves
+
 
 
 
