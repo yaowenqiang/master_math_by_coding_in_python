@@ -242,6 +242,11 @@ intuition with examples in Python
 
 > matrix commutative
 
+## Transposing vectors and matrices(矩阵转置)
+
+> square-symmetric matrix
+
+
 
 
 
