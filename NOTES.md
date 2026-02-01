@@ -263,6 +263,11 @@ intuition with examples in Python
 
 > least-squares solution
 
+> eigenvectors(特征向量)
+
+> diagonalization
+
+
 
 
 
