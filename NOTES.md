@@ -270,6 +270,12 @@ intuition with examples in Python
 
 ## Sigular value decomposition(奇异值分解)
 
+## HIstograms and probability densities( 概率密度)
+
+
+## the key difference in interpreting proporion and probability
+
+
 
 
 
