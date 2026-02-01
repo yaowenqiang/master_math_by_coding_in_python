@@ -259,7 +259,10 @@ intuition with examples in Python
 ## pseudoinverse
 
 
-## system of equations
+## system of equations(系统方程)
+
+> least-squares solution
+
 
 
 
