@@ -246,6 +246,13 @@ intuition with examples in Python
 
 > square-symmetric matrix
 
+> identity matrix
+> zero matrix
+> diagonal matrix
+> triangular matrix
+> upper triangular matrix
+> lower triangular matrix
+> toeplitz matrix
 
 
 
