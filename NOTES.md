@@ -246,13 +246,21 @@ intuition with examples in Python
 
 > square-symmetric matrix
 
-> identity matrix
+> identity matrix(单位矩阵)
 > zero matrix
-> diagonal matrix
+> diagonal matrix(对角矩阵)
 > triangular matrix
 > upper triangular matrix
 > lower triangular matrix
 > toeplitz matrix
+
+## matrix inverse(逆矩阵)
+
+## pseudoinverse
+
+
+## system of equations
+
 
 
 
