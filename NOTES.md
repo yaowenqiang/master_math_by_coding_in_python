@@ -275,6 +275,9 @@ intuition with examples in Python
 
 ## the key difference in interpreting proporion and probability
 
+## virtusl coin tosses
+
+## weighted die
 
 
 
