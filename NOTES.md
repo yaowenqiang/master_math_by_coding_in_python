@@ -284,5 +284,7 @@ intuition with examples in Python
 > discrete process
 > random process
 
+## Normalize any distribution to Gaussion
+
 
 
