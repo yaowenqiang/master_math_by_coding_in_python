@@ -287,4 +287,7 @@ intuition with examples in Python
 ## Normalize any distribution to Gaussion
 
 
+## Central Limit Theorem(中心极限定理)
+
+> Random samples from independent variables will tend towards a normal(Gaussian) deistribution, even if the variables are non-normally distributed
 
