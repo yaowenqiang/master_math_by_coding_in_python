@@ -291,3 +291,5 @@ intuition with examples in Python
 
 > Random samples from independent variables will tend towards a normal(Gaussian) deistribution, even if the variables are non-normally distributed
 
+## Joint probability distribution
+
