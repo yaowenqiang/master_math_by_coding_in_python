@@ -320,4 +320,11 @@ intuition with examples in Python
 > convergent(收敛数列) and divergent(发散数列) sequences
 
 
+## Heron's method of square roots
+
+> “巴比伦方法”或“牛顿法求平方根”
+
+> ornithology(鸟类学)
+
+
 
