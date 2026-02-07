@@ -307,4 +307,6 @@ intuition with examples in Python
 > 8 != 1 + 2 + 4
 > 28 = 1 + 2 + 4 + 7 + 14
 
+## Euclid's Pythagorean theorem
+## Euclid's Pythagorean triplets(毕达哥拉斯三元组)
 
