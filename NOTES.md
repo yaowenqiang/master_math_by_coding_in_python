@@ -293,3 +293,18 @@ intuition with examples in Python
 
 ## Joint probability distribution
 
+> the laplace probability
+> the dumbell curve
+
+## Number theory
+
+> Number theory is the study of properities of numbers
+### Perfect numbers
+
+> A positive integer that equals the sum of its positive divisors(excluding the number)
+
+> 6 = 1 + 2 + 3
+> 8 != 1 + 2 + 4
+> 28 = 1 + 2 + 4 + 7 + 14
+
+
