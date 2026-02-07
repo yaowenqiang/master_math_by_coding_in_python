@@ -315,4 +315,9 @@ intuition with examples in Python
 ## Fermat's last theorem(费马大定理)
 
 
+## Number sequences
+
+> convergent(收敛数列) and divergent(发散数列) sequences
+
+
 
