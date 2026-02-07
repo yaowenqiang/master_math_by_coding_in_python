@@ -310,3 +310,9 @@ intuition with examples in Python
 ## Euclid's Pythagorean theorem
 ## Euclid's Pythagorean triplets(毕达哥拉斯三元组)
 
+## Fermat's theorem(费马定理)
+
+## Fermat's last theorem(费马大定理)
+
+
+
