@@ -327,4 +327,23 @@ intuition with examples in Python
 > ornithology(鸟类学)
 
 
+## smooth numbers(光滑数)
+
+k-smooth numer:
+
++ An integer whose largest prime factor is <=k
+
+30 = 2*3*5
+
+30 is 5-smooth
+30 is 7-smooth
+30 is not 3-smooth
+
+
+
+
+
+
+
+
 
